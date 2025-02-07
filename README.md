@@ -1,5 +1,3 @@
-Un riassunto di BIOINFORMATICA basato sui sources:
-
 La bioinformatica è un campo interdisciplinare che fonde biologia e scienze computazionali per analizzare grandi quantità di dati biologici. L'**allineamento di sequenze** (SA) è uno strumento cruciale in questo campo per confrontare sequenze biologiche come DNA, RNA e proteine, al fine di identificare similarità strutturali e funzionali.
 
 Gli algoritmi di allineamento possono essere classificati in base alla loro estensione come **allineamento globale**, che confronta l'intera lunghezza delle sequenze, e **allineamento locale**, che si concentra su regioni altamente simili.
