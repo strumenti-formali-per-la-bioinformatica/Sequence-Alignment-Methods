@@ -16,11 +16,4 @@ Per migliorare l'efficienza computazionale, si utilizzano acceleratori hardware 
 
 Un algoritmo proposto utilizza GPU per ridurre la complessità temporale e spaziale, con una Foundation Matrix (FM) e una Traceback Matrix (TM) per memorizzare punteggi e direzioni. L'implementazione su IPU, come dimostrato dalle pipeline ELBA e PASTIS, offre accelerazioni significative nell'assemblaggio genomico e nella ricerca di omologia proteica.
 
-
-Gruppo composto da:
-
--Marco Fusco
-
--Marco Palmisciano
-
--Vittorio Ciancio
+[a.a 24/25] M. Palmisciano, M. Fusco, V. Ciancio
